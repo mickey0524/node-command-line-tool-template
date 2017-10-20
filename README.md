@@ -5,6 +5,8 @@
 
 由于只是一个模版，就不发布到npm库了，可以先 `git clone git@github.com:mickey0524/node-command-line-tool-template`，然后cd到对应目录，`npm install . -g`全局安装到本机，然后在命令行输入mickey就能看到效果了
 
+npm库中的包直接 npm install pageage (-g) 就行，推荐到[npmsio](http://npms.io/)上去寻找node包～
+
 ## cli
 
 * mickey -h / mickey --help 查看帮助文档
