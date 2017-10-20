@@ -1,0 +1,24 @@
+{
+  "name": "command-line-tool-template",
+  "version": "1.0.0",
+  "description": "A template for the development of the node command line tool",
+  "bin": {
+    "mickey": "bin/mickey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickey0524/node-command-line-tool-template.git"
+  },
+  "author": "mickey0524",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickey0524/node-command-line-tool-template/issues"
+  },
+  "homepage": "https://github.com/mickey0524/node-command-line-tool-template#readme",
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "commander": "^2.11.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
+}
