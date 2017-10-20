@@ -3,7 +3,7 @@
 
 ## 安装方法
 
-由于只是一个模版，就不发布到npm库了，可以先__git clone git@github.com:mickey0524/node-command-line-tool-template__，然后cd到对应目录，__npm install . -g__全局安装到本机，然后在命令行输入mickey就能看到效果了
+由于只是一个模版，就不发布到npm库了，可以先 `git clone git@github.com:mickey0524/node-command-line-tool-template`，然后cd到对应目录，`npm install . -g`全局安装到本机，然后在命令行输入mickey就能看到效果了
 
 ## cli
 
